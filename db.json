@@ -1,7 +1,10 @@
 {
-  "firstName": "Harvery",
-  "lastName": "Spectre",
-  "email": "harveryspectre@gmail.com",
-  "organizationName" : "Verlynk",
-  "projects": ["Verlynk", "Verlynk One"]
+  "data": {
+    "firstName": "Harvey",
+    "lastName": "Spectre",
+    "email": "harveryspectre@gmail.com",
+    "organizationName": "Verlynk",
+    "teamSize": "2-10",
+    "projects": ["Verlynk", "Verlynk One"]
+  }
 }

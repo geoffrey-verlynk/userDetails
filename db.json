@@ -4,6 +4,7 @@
     "lastName": "Spectre",
     "email": "harveryspectre@gmail.com",
     "organizationName": "Verlynk",
+    "organizationImg": "https://www.verlynk.com/assets/logo.png",
     "teamSize": "2-10",
     "projects": ["Verlynk", "Verlynk One"]
   }

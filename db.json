@@ -9,6 +9,7 @@
     "teamSize": "2-10",
     "projects": ["Verlynk", "Verlynk One"],
     "channels_connected":"8",
-    "total_channels":"25"
+    "total_channels":"25",
+    "user_labels": ["tech", "movies", "science", "politics"]
   }
 }

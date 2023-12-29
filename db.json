@@ -8,8 +8,57 @@
     "organizationName": "Verlynk",
     "organizationImg": "https://media.licdn.com/dms/image/D4D0BAQFIcefgdmUb0A/company-logo_200_200/0/1693432279490/verlynk_com_logo?e=2147483647&v=beta&t=QCKkcwq14xJRFsGN1uKO31s7vBIjfzh5BskuNtXiV6A",
     "teamSize": "2-10",
-    "projects": [{"name": "Verlynk", "id": "65645"}, {"name" : "Verlynk One", "id" : "64353"}],
-    "channels_connected":"8",
+    "projects": [{"name": "Verlynk", "id": "65645", "labels": ["tech", "social", "science", "ai"]}, {"name" : "Verlynk One", "id" : "64353", "labels": ["cricket", "movies", "tech", "politics"]}],
+    "channels_connected":[
+      {
+       "channelId" : "83241",
+        "channelName" : "Verlynk",
+        "social" : "facebook",
+        "projectId": "65645"
+      },
+      {
+       "channelId" : "83242",
+        "channelName" : "Verlynk",
+        "social" : "instagram",
+        "projectId": "65645"
+      },
+      {
+       "channelId" : "83243",
+        "channelName" : "Verlynk",
+        "social" : "linkedin",
+        "projectId": "65645"
+      },
+      {
+       "channelId" : "83244",
+        "channelName" : "Verlynk",
+        "social" : "x",
+        "projectId": "65645"
+      },
+      {
+       "channelId" : "83245",
+        "channelName" : "Verlynk",
+        "social" : "youtube",
+        "projectId": "65645"
+      },
+      {
+       "channelId" : "83246",
+        "channelName" : "Times of India",
+        "social" : "facebook",
+        "projectId": "64353"
+      },
+      {
+       "channelId" : "83247",
+        "channelName" : "Times of India",
+        "social" : "instagram",
+        "projectId": "64353"
+      },
+      {
+       "channelId" : "83248",
+        "channelName" : "Times of India",
+        "social" : "linkedin",
+        "projectId": "64353"
+      }
+    ],
     "total_channels":"25",
     "user_labels": ["tech", "movies", "science", "politics"]
   }

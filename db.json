@@ -82,6 +82,23 @@
       }
     ],
     "total_channels":"25",
-    "user_labels": ["tech", "movies", "science", "politics"]
+    "user_labels": [
+      {
+        "value" : "tech",
+        "color" : "red"
+      },
+      {
+        "value" : "movies",
+        "color" : "green"
+      },
+      {
+        "value" : "science",
+        "color" : "blue"
+      },
+      {
+        "value" : "politics",
+        "color" : "green"
+      }
+    ]
   }
 }
